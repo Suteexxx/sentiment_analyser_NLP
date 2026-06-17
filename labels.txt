@@ -4,3 +4,4 @@ love
 anger
 fear
 surprise
+gussa
