@@ -235,14 +235,10 @@ pip install -r requirements.txt
 
 ### Suteekshn Manchanda
 
-B.Tech Electronics and Communication Engineering
-Machine Learning Enthusiast | NLP | Computer Vision | AI
+B.Tech Electronics and Communication Engineering |
+Machine Learning Engineer | NLP | Computer Vision | AI
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
